@@ -1,0 +1,43 @@
+body{
+    max-width: 500px;
+    margin: auto;
+    background-color: #277DA1;
+    color: white;
+    font-family: 'Dosis', sans-serif;
+}
+
+img{
+
+    width: 100%;
+}
+
+h1{
+
+    text-align: center;
+}
+
+
+.row{
+
+    margin: auto;
+}
+
+.game{
+
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    margin: 1.66%;
+    padding: 0%;
+    font-weight: bold;
+}
+
+.browse-container{
+    display: grid;
+}
+
+#temp-nav{
+
+    text-align: center;
+}
+

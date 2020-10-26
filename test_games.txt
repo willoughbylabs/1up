@@ -1,0 +1,6 @@
+title: "Resident Evil 2",
+company: "Capcom",
+genre: "Survival Horror",
+rating: "M",
+img: "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Resident_Evil_2_Remake.jpg/220px-Resident_Evil_2_Remake.jpg"
+
